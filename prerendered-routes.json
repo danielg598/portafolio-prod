@@ -1,9 +1,0 @@
-{
-  "routes": [
-    "/api",
-    "/comunicacionEntreComponentes",
-    "/estudios",
-    "/experiencia",
-    "/sobreMi"
-  ]
-}
